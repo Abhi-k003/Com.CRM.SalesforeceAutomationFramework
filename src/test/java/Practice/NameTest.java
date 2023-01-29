@@ -9,5 +9,11 @@ public class NameTest
 	{
 		System.out.println("My name is Abhishek");
 	}
+	
+	@Test
+	public void deletTheProductsInCart()
+	{
+		System.out.println("delet The Products In Cart");
+	}
 
 }
