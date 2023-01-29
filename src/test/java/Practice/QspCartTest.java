@@ -21,5 +21,11 @@ public class QspCartTest
 	{
 		System.out.println("product deleted successfully");
 	}
+	
+	@Test
+	public void addNewProductTest()
+	{
+		System.out.println("new product has been added in cart");
+	}
 
 }
