@@ -9,5 +9,11 @@ public class QspCartTest
 	{
 		System.out.println("Added");
 	}
+	
+	@Test
+	public void modifyTheProductsInCart()
+	{
+		System.out.println(" modify The Products In Cart");
+	}
 
 }
