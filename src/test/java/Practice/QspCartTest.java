@@ -15,5 +15,11 @@ public class QspCartTest
 	{
 		System.out.println(" modify The Products In Cart");
 	}
+	
+	@Test
+	public void deleteTheProductInCart()
+	{
+		System.out.println("product deleted successfully");
+	}
 
 }
